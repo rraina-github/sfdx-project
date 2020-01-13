@@ -22,8 +22,6 @@
     <label>DreamHouse</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>Broker__c</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>Sample_Data_Import</tabs>
     <uiType>Lightning</uiType>
